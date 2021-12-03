@@ -1,0 +1,3 @@
+.app-header{
+  @apply py-2 flex justify-between items-center 
+}
